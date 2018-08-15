@@ -10,3 +10,5 @@ How this works:
 3. Place your hand in the box shown in the camera
 4. Now if you close your hand the dinosaur will jump (i.e. spacebar is pressed when you close your hand)
 5. Keep opening and closing your hand as you do with a normal spacebar to play the game
+
+Remark: Camera and lighting of the room must be good
